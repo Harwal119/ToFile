@@ -1,0 +1,3 @@
+1	False	Harwal	Harwal@gmail.com	9900	male	Lagos	08078940328
+2	False	Malik	malik@gmail.com	8898	male	Abk	07198739217
+3	False	Mahmud	mah@gmail.com	1234	male	unity street	09011456940
